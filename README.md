@@ -1,5 +1,7 @@
-# Sandwich Club Project Starter Code
-
+# FINISHED - Sandwich Club Project Starter Code
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=14)
+<br>
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
@@ -18,9 +20,6 @@ Through this project, you will:
 - Design an activity layout
 - Populate all fields in the layout accordingly
 
-## How Do I Complete this Project?
-Download the [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
-
-Design the layout for the detail activity so the different elements
-display in a sensible way. Implement the JSON parsing in JsonUtils so it
-produces a Sandwich Object that can be used to populate the UI that you designed.
+## Completed
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
