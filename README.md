@@ -12,6 +12,6 @@ show the details of each sandwich once it is selected.
 - Implemented jp.wasabeef:picasso-transformations
 - Handled the JSON data ( parsed it )
   - separated it into Strings
-  - returned the 'Sandwich'
+  - returned a new build 'Sandwich'
 - Build/Designed the DetailActivity layout
 - Populated the UI
