@@ -9,9 +9,9 @@ In this project, you will complete the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
 
 ## Completed
-- Implemented jp.wasabeef:picasso-transformations
-- Handled the JSON data ( parsed it )
+- Processed the JSON data (parsed it)
   - separated it into Strings
+  - looped through the List
   - returned a new build 'Sandwich'
 - Build/Designed the DetailActivity layout
 - Populated the UI
